@@ -6,21 +6,21 @@ You want to escape the school, and the only way you can leave here is to go into
 Video Link: https://youtu.be/guifLkAOiaE
 ### Game Details:
 There are five floors in this building in total. Each floor will be a Level for you to challenge. There will be 3 classrooms and an item&bullet room(warehouse) to replenish supplies on each floor for Level 1 to 4 and the fifth level of the game is on the roof of the school, which means there won’t be chairs or desks to block enemies way to attack you.  
-In the classrooms and corridors of each floor, there will be different numbers and types of enemy patrolling in their area. Once their front faces see you, they will start attacking you and follow and search you in limited areas once losing sight. (Enemies wouldn’t find you when you act behind their backs. )  
-There will be a fast way(stairs) to go up to the upper levels on the right side outside this building. But its entry on the first floor has been closed and locked. From Level 2 to 4, there will be an opened door to the fast-way stairs at the end of the corridor, you can go to any Level(2-4) you want in this fast way. But there will be a security NPC(bodyguard) to guard the exit to fast way, once you enter their patrol area, they will attack you, and you are very easily and fast to die once they see you. They are not enemy, so they can not be destroyed, and they wouldn’t leave their patrol area and search you for further attack.  
+- In the classrooms and corridors of each floor, there will be different numbers and types of enemy patrolling in their area. Once their front faces see you, they will start attacking you and follow and search you in limited areas once losing sight. (Enemies wouldn’t find you when you act behind their backs. )  
+- There will be a fast way(stairs) to go up to the upper levels on the right side outside this building. But its entry on the first floor has been closed and locked. From Level 2 to 4, there will be an opened door to the fast-way stairs at the end of the corridor, you can go to any Level(2-4) you want in this fast way. But there will be a security NPC(bodyguard) to guard the exit to fast way, once you enter their patrol area, they will attack you, and you are very easily and fast to die once they see you. They are not enemy, so they can not be destroyed, and they wouldn’t leave their patrol area and search you for further attack.  
 
 In each Level, there will be Book-Keys being placed in different classrooms. (Normally they are placed behind the enemies, and these enemies will protect them. ) Book-Keys in this building are not all real keys, there is only one real key in each level, others are all fake. Only real keys can open doors to the next level. Therefore, you should find the correct Book-Key, and put it on the Door-Switch to open the door to the stairs going up to the next level. For floor 5(roof), the real Book-Key is to open the final door to the slider to the outside. (Notice that if you didn’t clear all the enemies, you still cannot open the final door even if you have found the correct Book-Key. )  
 The door to the next floor can only open using the real key, but if you go downstairs from the upper level, the door will open automatically when you close it, you can go to a lower level when you don’t have enough items; but once you leave it, the door will close and you still need correct Book-Key to reopen it. 
 ### Player Control:
-· Key “A”: move left  
-· Key “D”: move right  
-· Key “W”: move forward  
-· Key “S”: move backward  
-· Space Key: jump  
-· Key “E”: pick up Book-Key  
-· Key “Q”: drop Book-Key  
-· Key “I”: release the cursor to Use Items and back to Shoot Mode  
-· Left mouse click: Fire and Use Items
+- Key “A”: move left  
+- Key “D”: move right  
+- Key “W”: move forward  
+- Key “S”: move backward  
+- Space Key: jump  
+- Key “E”: pick up Book-Key  
+- Key “Q”: drop Book-Key  
+- Key “I”: release the cursor to Use Items and back to Shoot Mode  
+- Left mouse click: Fire and Use Items
 ### To Win: 
 Once you kill all the enemies and find the real key for final door, put it on the Door-Switch to open door to outside, you win the game. You can then enjoy your free time outside before time out. 
 ### Game Over: 
