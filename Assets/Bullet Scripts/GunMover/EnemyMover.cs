@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnemyMover : MonoBehaviour
+{
+    public float speed = 25f;
+    
+    // Start is called before the first frame update
+    void Start()
+    {
+        Rigidbody r = GetComponent<Rigidbody>();
+        r.velocity = transform.forward * speed; 
+    }
+}
