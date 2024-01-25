@@ -21,6 +21,26 @@ The door to the next floor can only open using the real key, but if you go downs
 - Key “Q”: drop Book-Key  
 - Key “I”: release the cursor to Use Items and back to Shoot Mode  
 - Left mouse click: Fire and Use Items
+### There are mainly 4 different characters in this game: 
+NPC: Security NPC(Guard)   
+Enemies: (According to kill difficulty)    
+- L1: normal&patrol enemy robot(Blue Health Bar)  
+- L2: patrol teacher(Green Health Bar)  
+- L3: teacher enemy in the classroom(Red Health Bar)
+
+(every time you kill an enemy, you will gain 10 seconds time bonus.)  
+### There are 2 types of Keys in this game: 
+- Real Key  
+- Fake Key  
+- Both of them are all shown as Book Key with a Book Key label during the game.
+
+(Sometimes Book Key can protect you from attacking. )
+### There are 2 types of pickup-able items in this game: 
+- Health Item: show as different food   
+- Bullet Item: show as Eraser
+
+There is no limit on the number of eraser bullets. You can add bullets by using bullet items and heal yourself when you are attacked by using health items in your inventory. (Full health can’t use health items. ) There will be some items being placed randomly in this building, and on each floor, there will be an item&bullet room for you to replenish supplies.  
+Notice that your inventory can only store up to 7 items and you can not pick up items when there is no inventory, these items now will be physical which can block your way.  
 ### To Win: 
 Once you kill all the enemies and find the real key for final door, put it on the Door-Switch to open door to outside, you win the game. You can then enjoy your free time outside before time out. 
 ### Game Over: 
